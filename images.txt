@@ -1,1 +1,1 @@
-stirling-tools/stirling-pdf
+stirlingpdf/stirling-pdf
